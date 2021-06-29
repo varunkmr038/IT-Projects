@@ -1,1 +1,2 @@
-![login_page](https://user-images.githubusercontent.com/74452458/121064352-17765000-c7e5-11eb-97c6-5d5afd41608b.png)
+![image](https://user-images.githubusercontent.com/74452458/123850506-bc450280-d937-11eb-8168-03c4869ef18a.png)
+![image](https://user-images.githubusercontent.com/74452458/123850546-cb2bb500-d937-11eb-8aa7-5d32015be8a0.png)
