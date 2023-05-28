@@ -1,1 +1,1 @@
-# IT-2nd-year-Projects
+# IT-Projects
